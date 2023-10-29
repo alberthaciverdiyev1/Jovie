@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Jovie.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Jovie.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\boxicon.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boxicon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\custom-card.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom-card.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\dark.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\dark.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\dark.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\fonts\\flaticon\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\404.png",
+      "PackagePath": "staticwebassets\\assets\\img\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\account.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\5 .jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\5().jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\5().jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\banner\\white-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\white-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\blog-details2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\blog-details3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\popular-post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\popular-post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\popular-post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\blog\\popular-post4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\candidate\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\candidate\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\choose.png",
+      "PackagePath": "staticwebassets\\assets\\img\\choose.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\company-logo\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\company-logo\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\discover.png",
+      "PackagePath": "staticwebassets\\assets\\img\\discover.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\grow-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\grow-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\how-works.png",
+      "PackagePath": "staticwebassets\\assets\\img\\how-works.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\location\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\location\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\mobile.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\night.png",
+      "PackagePath": "staticwebassets\\assets\\img\\night.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\section-bg\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\section-bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\section-bg\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\section-bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\section-bg\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\section-bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\app.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\app.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\banner.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\footer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\job.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\job.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\price.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\price.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\shape\\why-choose.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape\\why-choose.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\sunny.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sunny.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\testimonial-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\testimonial-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\title-bg\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\title-bg\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\top-company\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\top-company\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\img\\why.choose.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\why.choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\meanmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Jovie\\Jovie\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Jovie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Jovie.props",
+      "PackagePath": "build\\Jovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Jovie.props",
+      "PackagePath": "buildMultiTargeting\\Jovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Jovie.props",
+      "PackagePath": "buildTransitive\\Jovie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
